@@ -1,0 +1,28 @@
+name: robert_essenstam
+favicon: null
+layout_spectrum: 0.47784887813031673
+typography_spectrum: 0.5609713622834533
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.21974372677505016
+  lightness: 0.09936636802740395
+  saturation: 0.6156415394507349
+  rhythmicContrast: 0.856128379702568
+purpose: []
